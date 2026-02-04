@@ -15,6 +15,12 @@ You can use this as a private database for yourself, or you can publish your own
 
 ---
 
+## Screenshots
+
+### Menu
+
+![GratitudeOps menu](docs/screenshots/01-menu.png)
+
 
 ## Quick start
 
