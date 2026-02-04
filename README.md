@@ -13,6 +13,9 @@ GratitudeOps is a simple local database tool for tracking support, gratitude, an
 
 You can use this as a private database for yourself, or you can publish your own fork as a template. Use it your way.
 
+---
+
+
 ## Quick start
 
 1. Open a terminal in this folder
