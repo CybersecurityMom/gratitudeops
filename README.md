@@ -1,5 +1,10 @@
 # GratitudeOps
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/CybersecurityMom/gratitudeops/main/docs/screenshots/GratitudeOps-GitHub-Banner.png" alt="GratitudeOps banner" width="1280">
+</p>
+
+
 A project by AQ’s Corner, LLC  
 Project Steward: Aqueelah Emanuel  
 Design Principle: Community is infrastructure.
