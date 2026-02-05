@@ -21,6 +21,8 @@ You can use this as a private database for yourself, or you can publish your own
 
 ![GratitudeOps menu](docs/screenshots/01-menu1.png)
 
+![GratitudeOps menu](docs/screenshots/sample-menu.png)
+
 
 ## Quick start
 
