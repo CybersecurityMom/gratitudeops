@@ -52,6 +52,7 @@ There are no external dependencies and no internet connection required.
 
 ![GratitudeOps menu](docs/screenshots/sample_menu.png)
 
+The public repository contains no personal data. Screenshots are for demonstration only.
 
 ## Quick start
 
