@@ -19,7 +19,7 @@ You can use this as a private database for yourself, or you can publish your own
 
 ### Menu
 
-![GratitudeOps menu](docs/screenshots/01-menu.png)
+![GratitudeOps menu](docs/screenshots/01-menu1.png)
 
 
 ## Quick start
