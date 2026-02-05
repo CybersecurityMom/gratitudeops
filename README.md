@@ -4,14 +4,43 @@
   <img src="https://raw.githubusercontent.com/CybersecurityMom/gratitudeops/main/docs/screenshots/GratitudeOps-GitHub-Banner.png" alt="GratitudeOps banner" width="1280">
 </p>
 
-
 A project by AQ’s Corner, LLC  
 Project Steward: Aqueelah Emanuel  
 Design Principle: Community is infrastructure.
 
-GratitudeOps is a simple local database tool for tracking support, gratitude, and reciprocity. It is designed so you can keep your data private on your own computer.
+GratitudeOps is a simple, local-first database tool for tracking support, gratitude, and reciprocity. It is designed to help you intentionally remember the people who showed up for you and how they helped, while keeping that data private on your own computer.
 
-You can use this as a private database for yourself, or you can publish your own fork as a template. Use it your way.
+This project was built in honor of the people who supported me and my business during moments of uncertainty, especially post layoff, through time, financial support, introductions, shared reputation, and quiet advocacy. GratitudeOps exists to remember that support with intention and to create space to return opportunity when capacity allows.
+
+You can use this as a private database for yourself, or you can publish your own fork as a public template. Use it your way.
+
+---
+
+## What this project is (and is not)
+
+GratitudeOps is:
+- A local command-line application
+- A personal or private database you control
+- A public template you can fork and adapt
+
+GratitudeOps is not:
+- A hosted service
+- A cloud app
+- A shared database
+- A social platform
+
+Your data stays on your machine unless you choose otherwise.
+
+---
+
+## Tech stack
+
+- Python 3
+- SQLite (local database file)
+- Visual Studio Code
+- Terminal / command line interface
+
+There are no external dependencies and no internet connection required.
 
 ---
 
